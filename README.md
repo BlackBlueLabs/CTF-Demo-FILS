@@ -1,5 +1,12 @@
 # CTF DEMO 
 This is a demo application and a simple CTF exercise.
+
+## Fast follow along CTF (sponsored by Heroku Student Pack)
+The fastest way to check the app is this link:
+
+
+https://hacking-ctf0x1-fils.herokuapp.com/CTF-WebApp-1.0-SNAPSHOT/
+
 ## Pre-requisite
 - Burp Suite
 - Docker & Docker Engine
